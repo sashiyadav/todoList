@@ -1,7 +1,6 @@
-Welcome to Practical JavaScript!
-============================
+Welcome
+=======
 
-This is the finished code for Version 9 of the
-application for Practical JavaScript.
+This is the finished code for Todo List
 
-For more details, visit practicaljavascript.net.
+For more details, visit https://honey-impala.glitch.me/.
